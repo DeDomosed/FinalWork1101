@@ -7,6 +7,7 @@
 Убедиться что проект запускает WebApi и Desktop.
 Аккаунт с правами к панели заказов: логин-(loginDEpnb2018) пароль-({ADBdc)
 ### Необходимые условия
+пакеты Microsoft.EntityFrameworkCore.SqlServer и Microsoft.EntityFrameworkCore.Tools
 разработчики сия чуда: Горелкин Андрей, Туйкова Анна, Зайцев Матвей
 
 
